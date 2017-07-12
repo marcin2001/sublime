@@ -4,6 +4,6 @@ div{
     border:1px solid black;
 }
 div:hover{
-    transform: width(200px);
+    transform: translateX(300px);
     transition-duration: 2s;
 }
