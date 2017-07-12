@@ -5,4 +5,5 @@ div{
 }
 div:hover{
     transform: width(200px);
+    transition-duration: 2s;
 }
