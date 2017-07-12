@@ -3,3 +3,6 @@ div{
     height: 200px;
     border:1px solid black;
 }
+div:hover{
+    transform: width(200px);
+}
